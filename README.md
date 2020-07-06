@@ -34,14 +34,3 @@ To edit this repository in MakeCode.
 * 開啟網頁 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 點擊 **匯入** 然後點選 **匯入 URL**
 * 貼上 **https://github.com/BLstem/pxt-led** 並點擊 **繼續！**
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/BLstem/pxt-led/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
