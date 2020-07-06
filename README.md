@@ -1,5 +1,5 @@
 
-> Open this page at [https://doralc.github.io/pxt-led/](https://doralc.github.io/pxt-led/)
+> Open this page at [https://BLstem.github.io/pxt-led/](https://BLstem.github.io/pxt-led/)
 
 ## Use as Extension
 
@@ -8,24 +8,40 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/doralc/pxt-led** and import
+* search for **https://github.com/BLstem/pxt-led** and import
 
-## Edit this project ![Build status badge](https://github.com/doralc/pxt-led/workflows/MakeCode/badge.svg)
+## 使用擴展積木
+
+可在 MakeCode 中的 **擴展** 加入此擴展積木專案
+
+* 開啟網頁 [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* 點擊 **新增專案**
+* 點擊積木選單最底處的 **擴展**
+* 搜尋並加入擴展積木 **https://github.com/BLstem/pxt-led**
+
+## Edit this project ![Build status badge](https://github.com/BLstem/pxt-led/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/doralc/pxt-led** and click import
+* paste **https://github.com/BLstem/pxt-led** and click import
+
+## 修改此專案
+
+在 MakeCode 修改此專案
+
+* 開啟網頁 [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* 點擊 **匯入** 然後點選 **匯入 URL**
+* 貼上 **https://github.com/BLstem/pxt-led** 並點擊 **繼續！**
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/doralc/pxt-led/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/BLstem/pxt-led/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
