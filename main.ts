@@ -1,4 +1,4 @@
-//%color=#DAF7A6 icon="\uf0eb" block="LED"
+//%color=#249C23 icon="\uf0eb" block="LED"
 namespace LED{
     let strip = neopixel.create(DigitalPin.P1, 12, NeoPixelMode.RGB)
     strip.showColor(neopixel.rgb(0, 0, 0))
